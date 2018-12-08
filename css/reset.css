@@ -9,7 +9,8 @@
   font-weight: normal;
 }
 
-/* Set default font size to 10px */
+/* Set default font size to 10px and font family to sans-serif */
 html {
   font-size: 62.5%;
+  font-family: sans-serif;
 }
