@@ -1,3 +1,4 @@
 # Resetto
 
-A custom CSS reset I use with some of my projects for making easier to create my unique and responsive page designs.
+My custom CSS reset.
+Its main feature is to set the default font size to 10 pixels for any browser and so it becomes easier to calculate relative unities (ems and rems) for a better responsive typography and box elements.
