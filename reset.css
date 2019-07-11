@@ -10,7 +10,10 @@
 }
 
 /* Set default font size to 10px and font family to sans-serif */
-html {
+html,
+body {
   font-size: 62.5%;
   font-family: sans-serif;
+  widht: 100%;
+  overflow-x: hidden;
 }
