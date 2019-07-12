@@ -1,3 +1,6 @@
+/* Import Google font Open-Sans to set as default font family */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 /* Set no extra padding and margin to all elements */
 *,
 *::before,
@@ -13,7 +16,7 @@
 html,
 body {
   font-size: 62.5%;
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
   widht: 100%;
   overflow-x: hidden;
 }
