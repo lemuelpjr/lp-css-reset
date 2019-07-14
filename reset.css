@@ -13,8 +13,7 @@
 }
 
 /* Set default font size to 10px and font family to Open Sans */
-html,
-body {
+html {
   font-size: 62.5%;
   font-family: 'Open Sans', sans-serif;
   width: 100%;
