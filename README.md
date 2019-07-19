@@ -12,7 +12,7 @@ My custom CSS reset. Down here is a list of its features:
 
 + The value of *box-sizing* property is set to be *border-box*. This way all box elements' width and height properties (and min/max properties) includes content, padding and border;
 
-+ Prevents horizontal scrolling by setting *overflow-x* to *hidden* and global width to 100%;
++ Prevents horizontal scrolling by setting *overflow-x* to *hidden* and width to 100%;
 
 + Default font weight is set to normal;
 
