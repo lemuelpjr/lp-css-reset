@@ -8,16 +8,22 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  /* Prevent horizontal scrolling */
-  overflow-x: hidden;
-  width: 100%;
   /* Set general font-size and font weight */
   font-size: 100%;
-  font-weight: normal;
+  font-weight: 300;
 }
 
 html {
   /* Set default font family to Open Sans and font size to 10px */
   font-family: 'Open Sans', sans-serif;
   font-size: 62.5%;
+  /* Prevent horizontal scrolling */
+  overflow-x: hidden;
+  width: 100%;
+}
+
+body {
+  /* Prevent horizontal scrolling */
+  overflow-x: hidden;
+  width: 100%;
 }
