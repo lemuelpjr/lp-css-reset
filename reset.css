@@ -7,7 +7,7 @@
   box-sizing: inherit;
   /* Set general font-size and font weight */
   font-size: 100%;
-  font-weight: 300;
+  font-weight: normal;
 }
 
 html {
