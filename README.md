@@ -16,4 +16,4 @@ My custom CSS reset. Down here is a list of its features:
 
 + Default font weight is set to normal;
 
-+ Default font family is set to **Open Sans**.
++ Default font family is set to *sans-serif*.
